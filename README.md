@@ -1,6 +1,6 @@
 # React-Front-End-With-BlockChain
 
 
-# This my first blokchain react project with Truffle framework and Web3 Technology
+# This my first Decentralized Blokchain Web App with React project with Truffle framework and Web3 Technology
 
-https://main.d22qz74rthdzdf.amplifyapp.com/
+https://dev5825.d1q52jkwlsyf5t.amplifyapp.com/
